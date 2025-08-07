@@ -40,7 +40,7 @@ To build a mini CLI-based system that demonstrates the use of OOP concepts in Ja
 
 ---
 
-![Alt Text](image-path-or-URL)
+![Alt Text](Screenshot 2025-08-07 194526.png)
 
 
 
